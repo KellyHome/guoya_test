@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestAll" duration-ms="26629" started-at="2017-11-17T09:20:42Z" finished-at="2017-11-17T09:21:09Z">
+    <groups>
+    </groups>
+    <test name="case1" duration-ms="26629" started-at="2017-11-17T09:20:42Z" finished-at="2017-11-17T09:21:09Z">
+      <class name="guoya_test.selenium_testTest">
+        <test-method status="PASS" signature="beforeselenium_testTest()[pri:0, instance:guoya_test.selenium_testTest@76f6805b]" name="beforeselenium_testTest" is-config="true" duration-ms="5826" started-at="2017-11-17T17:20:42Z" finished-at="2017-11-17T17:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeselenium_testTest -->
+        <test-method status="PASS" signature="selenium_testTest()[pri:0, instance:guoya_test.selenium_testTest@76f6805b]" name="selenium_testTest" duration-ms="6463" started-at="2017-11-17T17:20:48Z" finished-at="2017-11-17T17:20:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selenium_testTest -->
+        <test-method status="PASS" signature="Afterselenium_testTest()[pri:0, instance:guoya_test.selenium_testTest@76f6805b]" name="Afterselenium_testTest" is-config="true" duration-ms="1124" started-at="2017-11-17T17:20:55Z" finished-at="2017-11-17T17:20:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Afterselenium_testTest -->
+      </class> <!-- guoya_test.selenium_testTest -->
+      <class name="guoya_test.testng_selenium_test">
+        <test-method status="PASS" signature="testng_selenium_test()[pri:0, instance:guoya_test.testng_selenium_test@2330a31]" name="testng_selenium_test" duration-ms="13200" started-at="2017-11-17T17:20:56Z" finished-at="2017-11-17T17:21:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testng_selenium_test -->
+      </class> <!-- guoya_test.testng_selenium_test -->
+    </test> <!-- case1 -->
+  </suite> <!-- TestAll -->
+</testng-results>

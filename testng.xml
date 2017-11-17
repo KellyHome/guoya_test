@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestAll">
+	<test name="case1">
+		<classes>
+		
+		
+		    <class name="guoya_test.selenium_testTest" />
+		 
+			
+		<!--  
+			<class name="com.guoyasoft.testcase_selenium" />
+		-->
+		
+		<class name="guoya_test.testng_selenium_test" />
+		
+		</classes>
+	</test>
+</suite>
